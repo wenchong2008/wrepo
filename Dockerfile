@@ -1,1 +1,1 @@
-FROM zyxa/pyinstaller-centos6:latest
+FROM centos:centos7.9.2009
